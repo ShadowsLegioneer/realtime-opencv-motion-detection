@@ -1,4 +1,4 @@
-# realtime-opencv-motion-detection
+# realtime-opencv-motion-segmenation
 This is realtime opencv motion detection and segmentation. It capture first frame and analize other frames. To use it - simply run run.sh (or you can use it in console) - 
 ### python motion_detector.py (with camera)
 ### python motion_detector.py --video video.mp4 (with video)
