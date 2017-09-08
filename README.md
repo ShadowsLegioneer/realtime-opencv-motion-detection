@@ -1,5 +1,5 @@
 # realtime-opencv-motion-detection
-This is realtime opencv motion detection.
+This is realtime opencv motion detection and segmentation. It capture first frame and analize other frames.
 USAGE
 # python motion_detector.py
 # python motion_detector.py --video video.mp4
